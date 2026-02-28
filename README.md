@@ -9,8 +9,8 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu-003049?style=for-the-badge&logo=ubuntu&logoColor=#E95420)
 ![kalilinux](https://img.shields.io/badge/kali_linux-003049?style=for-the-badge&logo=kalilinux&logoColor=#557C94)
 ![macos](https://img.shields.io/badge/macos-003049?style=for-the-badge&logo=macos&logoColor=#000000)
-![alpinelinux](https://img.shields.io/badge/alpinelinux-003049?style=for-the-badge&logo=alpinelinux&logoColor=#0D597F)
-![almalinux](https://img.shields.io/badge/almalinux-003049?style=for-the-badge&logo=almalinux&logoColor=#000000)
+![alpinelinux](https://img.shields.io/badge/alpine_linux-003049?style=for-the-badge&logo=alpinelinux&logoColor=#0D597F)
+![almalinux](https://img.shields.io/badge/alma_linux-003049?style=for-the-badge&logo=almalinux&logoColor=#000000)
 
 ![mikrotik](https://img.shields.io/badge/mikrotik-003049?style=for-the-badge&logo=mikrotik&logoColor=#293239)
 ![openwrt](https://img.shields.io/badge/openwrt-003049?style=for-the-badge&logo=openwrt&logoColor=#00B5E2)
@@ -48,7 +48,7 @@
 ![Spring](https://img.shields.io/badge/Spring-003049?style=for-the-badge&logo=spring&logoColor=#6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003049?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
 ![vert.x](https://img.shields.io/badge/vert.x-003049?style=for-the-badge&logo=eclipsevertdotx&logoColor=#782A90)
-![eclipsejetty](https://img.shields.io/badge/eclipse_jettyt-003049?style=for-the-badge&logo=eclipsejetty&logoColor=#FC390E)
+![eclipsejetty](https://img.shields.io/badge/jetty-003049?style=for-the-badge&logo=eclipsejetty&logoColor=#FC390E)
 ![apachetomcat](https://img.shields.io/badge/tomcat-003049?style=for-the-badge&logo=apachetomcat&logoColor=#F8DC75)
 
 ![hibernate](https://img.shields.io/badge/hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=#59666C)
@@ -58,7 +58,7 @@
 ![apacheparquet](https://img.shields.io/badge/parquet-003049?style=for-the-badge&logo=apacheparquet&logoColor=#50ABF1)
 ![apachelucene](https://img.shields.io/badge/lucene-003049?style=for-the-badge&logo=apachelucene&logoColor=#019B8F)
 
-![apachemaven](https://img.shields.io/badge/apachemaven-003049?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
+![apachemaven](https://img.shields.io/badge/maven-003049?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
 ![gradle](https://img.shields.io/badge/gradle-003049?style=for-the-badge&logo=gradle&logoColor=#02303A)
 ![jitpack](https://img.shields.io/badge/jitpack-003049?style=for-the-badge&logo=jitpack&logoColor=#000000)
 
@@ -97,7 +97,7 @@
 
 ### c#
 
-![csharp](https://img.shields.io/badge/csharp-003049?style=for-the-badge&logo=csharp&logoColor=#A8B9CC)
+![csharp](https://img.shields.io/badge/c#-003049?style=for-the-badge&logo=csharp&logoColor=#A8B9CC)
 ![nuget](https://img.shields.io/badge/nuget-003049?style=for-the-badge&logo=nuget&logoColor=#004880)
 ![unity](https://img.shields.io/badge/unity-003049?style=for-the-badge&logo=unity&logoColor=#FFFFFF)
 
