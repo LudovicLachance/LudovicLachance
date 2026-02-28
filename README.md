@@ -97,7 +97,7 @@
 
 ### c#
 
-![csharp](https://img.shields.io/badge/c#-003049?style=for-the-badge&logo=csharp&logoColor=#A8B9CC)
+![csharp](https://img.shields.io/badge/csharp-003049?style=for-the-badge&logo=csharp&logoColor=#A8B9CC)
 ![nuget](https://img.shields.io/badge/nuget-003049?style=for-the-badge&logo=nuget&logoColor=#004880)
 ![unity](https://img.shields.io/badge/unity-003049?style=for-the-badge&logo=unity&logoColor=#FFFFFF)
 
