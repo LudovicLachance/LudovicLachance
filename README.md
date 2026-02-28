@@ -204,7 +204,7 @@
 ### VIDEO EDITING
 
 ![kdenlive](https://img.shields.io/badge/kdenlive-003049?style=for-the-badge&logo=kdenlive&logoColor=#527EB2)
-![obs](https://img.shields.io/badge/obs-003049?style=for-the-badge&logo=obs&logoColor=#123F6D)
+![obsstudio](https://img.shields.io/badge/obs-studio-003049?style=for-the-badge&logo=obsstudio&logoColor=#302E31)
 
 ### MINECRAFT
 
