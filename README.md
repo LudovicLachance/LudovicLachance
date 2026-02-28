@@ -23,6 +23,7 @@
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-003049?style=for-the-badge&logo=raspberrypi&logoColor=#A22846)
 ![arduino](https://img.shields.io/badge/arduino-003049?style=for-the-badge&logo=arduino&logoColor=#00878F)
 ![nfc](https://img.shields.io/badge/nfc-003049?style=for-the-badge&logo=nfc&logoColor=#002E5F)
+![adafruit](https://img.shields.io/badge/adafruit-003049?style=for-the-badge&logo=adafruit&logoColor=#000000)
 
 ### DB
 
@@ -36,6 +37,7 @@
 ![apachehbase](https://img.shields.io/badge/hbase-003049?style=for-the-badge&logo=apachehbase&logoColor=#BE160C)
 ![mongodb](https://img.shields.io/badge/mongodb-003049?style=for-the-badge&logo=mongodb&logoColor=#47A248)
 ![timescale](https://img.shields.io/badge/timescale-003049?style=for-the-badge&logo=timescale&logoColor=#FDB515)
+![apachehadoop](https://img.shields.io/badge/hadoop-003049?style=for-the-badge&logo=apachehadoop&logoColor=#66CCFF)
 
 ![redis](https://img.shields.io/badge/redis-003049?style=for-the-badge&logo=redis&logoColor=#FDB515)
 ![memcached](https://img.shields.io/badge/memcached-003049?style=for-the-badge&logo=memcached&logoColor=#FDB515)
@@ -45,13 +47,16 @@
 ![java](https://img.shields.io/badge/java-003049?style=for-the-badge&logo=openjdk&logoColor=#ffffff)
 ![Spring](https://img.shields.io/badge/Spring-003049?style=for-the-badge&logo=spring&logoColor=#6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003049?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
-![eclipsejetty](https://img.shields.io/badge/eclipse_jettyt-003049?style=for-the-badge&logo=eclipsejetty&logoColor=#FC390E)
-![hibernate](https://img.shields.io/badge/hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=#59666C)
 ![vert.x](https://img.shields.io/badge/vert.x-003049?style=for-the-badge&logo=eclipsevertdotx&logoColor=#782A90)
+![eclipsejetty](https://img.shields.io/badge/eclipse_jettyt-003049?style=for-the-badge&logo=eclipsejetty&logoColor=#FC390E)
+![apachetomcat](https://img.shields.io/badge/tomcat-003049?style=for-the-badge&logo=apachetomcat&logoColor=#F8DC75)
+
+![hibernate](https://img.shields.io/badge/hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=#59666C)
 
 ![apachepdfbox](https://img.shields.io/badge/pdfbox-003049?style=for-the-badge&logo=apachepdfbox&logoColor=#34A5DA)
 ![apachenifi](https://img.shields.io/badge/nifi-003049?style=for-the-badge&logo=apachenifi&logoColor=#728E9B)
 ![apacheparquet](https://img.shields.io/badge/parquet-003049?style=for-the-badge&logo=apacheparquet&logoColor=#50ABF1)
+![apachelucene](https://img.shields.io/badge/lucene-003049?style=for-the-badge&logo=apachelucene&logoColor=#019B8F)
 
 ![apachemaven](https://img.shields.io/badge/apachemaven-003049?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
 ![gradle](https://img.shields.io/badge/gradle-003049?style=for-the-badge&logo=gradle&logoColor=#02303A)
@@ -133,6 +138,7 @@
 ![unpkg](https://img.shields.io/badge/unpkg-003049?style=for-the-badge&logo=unpkg&logoColor=#000000)
 
 ![postman](https://img.shields.io/badge/postman-003049?style=for-the-badge&logo=postman&logoColor=#FF6C37)
+![apachejmeter](https://img.shields.io/badge/jmeter-003049?style=for-the-badge&logo=apachejmeter&logoColor=#D22128)
 
 ![nginx](https://img.shields.io/badge/nginx-003049?style=for-the-badge&logo=nginx&logoColor=#009639)
 ![caddy](https://img.shields.io/badge/caddy-003049?style=for-the-badge&logo=caddy&logoColor=#1F88C0)
