@@ -15,9 +15,6 @@
 ![mikrotik](https://img.shields.io/badge/mikrotik-003049?style=for-the-badge&logo=mikrotik&logoColor=#293239)
 ![openwrt](https://img.shields.io/badge/openwrt-003049?style=for-the-badge&logo=openwrt&logoColor=#00B5E2)
 
-![flathub](https://img.shields.io/badge/flathub-003049?style=for-the-badge&logo=flathub&logoColor=#000000)
-![appimage](https://img.shields.io/badge/appimage-003049?style=for-the-badge&logo=appimage&logoColor=#739FB9)
-
 ### Hardware
 
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-003049?style=for-the-badge&logo=raspberrypi&logoColor=#A22846)
@@ -174,6 +171,8 @@
 
 ![brew](https://img.shields.io/badge/brew-003049?style=for-the-badge&logo=brew&logoColor=#000000)
 ![apt](https://img.shields.io/badge/apt-003049?style=for-the-badge&logo=apt&logoColor=#000000)
+![flathub](https://img.shields.io/badge/flathub-003049?style=for-the-badge&logo=flathub&logoColor=#000000)
+![appimage](https://img.shields.io/badge/appimage-003049?style=for-the-badge&logo=appimage&logoColor=#739FB9)
 
 ### SOFTWARES
 
