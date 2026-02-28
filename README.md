@@ -1,6 +1,6 @@
 ## Skills & Tools
 
-<div align="center">
+### OS
 
 ![linux](https://img.shields.io/badge/linux-003049?style=for-the-badge&logo=linux&logoColor=#FCC624)
 ![debian](https://img.shields.io/badge/debian-003049?style=for-the-badge&logo=debian&logoColor=#A81D33)
@@ -18,17 +18,13 @@
 ![flathub](https://img.shields.io/badge/flathub-003049?style=for-the-badge&logo=flathub&logoColor=#000000)
 ![appimage](https://img.shields.io/badge/appimage-003049?style=for-the-badge&logo=appimage&logoColor=#739FB9)
 
-</div>
-
-<div align="center">
+### Hardware
 
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-003049?style=for-the-badge&logo=raspberrypi&logoColor=#A22846)
 ![arduino](https://img.shields.io/badge/arduino-003049?style=for-the-badge&logo=arduino&logoColor=#00878F)
 ![nfc](https://img.shields.io/badge/nfc-003049?style=for-the-badge&logo=nfc&logoColor=#002E5F)
 
-</div>
-
-<div align="center">
+### DB
 
 ![sql](https://img.shields.io/badge/SQL-003049?style=for-the-badge&logo=sql&logoColor=ffffff)
 ![mysql](https://img.shields.io/badge/mysql-003049?style=for-the-badge&logo=mysql&logoColor=#4479A1)
@@ -44,9 +40,7 @@
 ![redis](https://img.shields.io/badge/redis-003049?style=for-the-badge&logo=redis&logoColor=#FDB515)
 ![memcached](https://img.shields.io/badge/memcached-003049?style=for-the-badge&logo=memcached&logoColor=#FDB515)
 
-</div>
-
-<div align="center">
+### JAVA
 
 ![java](https://img.shields.io/badge/java-003049?style=for-the-badge&logo=openjdk&logoColor=#ffffff)
 ![Spring](https://img.shields.io/badge/Spring-003049?style=for-the-badge&logo=spring&logoColor=#6DB33F)
@@ -55,8 +49,9 @@
 ![hibernate](https://img.shields.io/badge/hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=#59666C)
 ![vert.x](https://img.shields.io/badge/vert.x-003049?style=for-the-badge&logo=eclipsevertdotx&logoColor=#782A90)
 
-![apachepdfbox](https://img.shields.io/badge/apache_pdfbox-003049?style=for-the-badge&logo=apachepdfbox&logoColor=#34A5DA)
-![apachenifi](https://img.shields.io/badge/nifi-003049?style=for-the-badge&logo=apachenifi&logoColor=apachenifi)
+![apachepdfbox](https://img.shields.io/badge/pdfbox-003049?style=for-the-badge&logo=apachepdfbox&logoColor=#34A5DA)
+![apachenifi](https://img.shields.io/badge/nifi-003049?style=for-the-badge&logo=apachenifi&logoColor=#728E9B)
+![apacheparquet](https://img.shields.io/badge/parquet-003049?style=for-the-badge&logo=apacheparquet&logoColor=#50ABF1)
 
 ![apachemaven](https://img.shields.io/badge/apachemaven-003049?style=for-the-badge&logo=apachemaven&logoColor=#C71A36)
 ![gradle](https://img.shields.io/badge/gradle-003049?style=for-the-badge&logo=gradle&logoColor=#02303A)
@@ -64,9 +59,7 @@
 
 ![jenkins](https://img.shields.io/badge/jenkins-003049?style=for-the-badge&logo=jenkins&logoColor=#D24939)
 
-</div>
-
-<div align="center">
+### PYTHON
 
 ![python](https://img.shields.io/badge/python-003049?style=for-the-badge&logo=python&logoColor=#3776AB)
 ![pypy](https://img.shields.io/badge/pypy-003049?style=for-the-badge&logo=pypy&logoColor=#193440)
@@ -79,10 +72,7 @@
 ![django](https://img.shields.io/badge/django-003049?style=for-the-badge&logo=django&logoColor=#092E20)
 ![renpy](https://img.shields.io/badge/renpy-003049?style=for-the-badge&logo=renpy&logoColor=#FF7F7F)
 
-
-</div>
-
-<div align="center">
+### PHP
 
 ![php](https://img.shields.io/badge/php-003049?style=for-the-badge&logo=php&logoColor=#777BB4)
 ![symfony](https://img.shields.io/badge/symfony-003049?style=for-the-badge&logo=symfony&logoColor=#000000)
@@ -91,10 +81,7 @@
 ![composer](https://img.shields.io/badge/composer-003049?style=for-the-badge&logo=composer&logoColor=#885630)
 ![phpmyadmin](https://img.shields.io/badge/phpmyadmin-003049?style=for-the-badge&logo=phpmyadmin&logoColor=#6C78AF)
 
-</div>
-
-
-<div align="center">
+### C/C++
 
 ![c](https://img.shields.io/badge/c-003049?style=for-the-badge&logo=c&logoColor=#A8B9CC)
 ![cplusplus](https://img.shields.io/badge/c++-003049?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
@@ -103,17 +90,13 @@
 ![bluetooth](https://img.shields.io/badge/bluetooth-003049?style=for-the-badge&logo=bluetooth&logoColor=#0082FC)
 ![qt](https://img.shields.io/badge/qt-003049?style=for-the-badge&logo=qt&logoColor=#41CD52)
 
-</div>
-
-<div align="center">
+### c#
 
 ![csharp](https://img.shields.io/badge/csharp-003049?style=for-the-badge&logo=csharp&logoColor=#A8B9CC)
 ![nuget](https://img.shields.io/badge/nuget-003049?style=for-the-badge&logo=nuget&logoColor=#004880)
 ![unity](https://img.shields.io/badge/unity-003049?style=for-the-badge&logo=unity&logoColor=#FFFFFF)
 
-</div>
-
-<div align="center">
+### WEB
 
 ![firefoxbrowser](https://img.shields.io/badge/firefox-003049?style=for-the-badge&logo=firefoxbrowser&logoColor=#FF7139)
 
@@ -131,6 +114,7 @@
 
 ![xml](https://img.shields.io/badge/xml-003049?style=for-the-badge&logo=xml&logoColor=#005FAD)
 ![rss](https://img.shields.io/badge/rss-003049?style=for-the-badge&logo=rss&logoColor=#FFA500)
+![jsonwebtokens](https://img.shields.io/badge/jsonwebtokens-003049?style=for-the-badge&logo=jsonwebtokens&logoColor=#000000)
 
 ![Html5](https://img.shields.io/badge/Html5-003049?style=for-the-badge&logo=Html5&logoColor=#E34F26)
 ![pwa](https://img.shields.io/badge/pwa-003049?style=for-the-badge&logo=pwa&logoColor=#5A0FC8)
@@ -157,9 +141,7 @@
 
 ![opentelemetry](https://img.shields.io/badge/opentelemetry-003049?style=for-the-badge&logo=opentelemetry&logoColor=#000000)
 
-</div>
-
-<div align="center">
+### Tools
   
 ![docker](https://img.shields.io/badge/docker-003049?style=for-the-badge&logo=docker&logoColor=#2496ED)
 ![podman](https://img.shields.io/badge/podman-003049?style=for-the-badge&logo=podman&logoColor=#892CA0)
@@ -187,9 +169,7 @@
 ![brew](https://img.shields.io/badge/brew-003049?style=for-the-badge&logo=brew&logoColor=#000000)
 ![apt](https://img.shields.io/badge/apt-003049?style=for-the-badge&logo=apt&logoColor=#000000)
 
-</div>
-
-<div align="center">
+### SOFTWARES
 
 ![jirasoftware](https://img.shields.io/badge/jira_software-003049?style=for-the-badge&logo=jirasoftware&logoColor=#0052CC)
 ![gitea](https://img.shields.io/badge/gitea-003049?style=for-the-badge&logo=gitea&logoColor=#F05032)
@@ -198,9 +178,12 @@
 ![githubpages](https://img.shields.io/badge/githubpages-003049?style=for-the-badge&logo=githubpages&logoColor=#222222)
 ![readthedocs](https://img.shields.io/badge/read_the_docs-003049?style=for-the-badge&logo=readthedocs&logoColor=#000000)
 ![pihole](https://img.shields.io/badge/pihole-003049?style=for-the-badge&logo=pihole&logoColor=#96060C)
+![dovecot](https://img.shields.io/badge/dovecot-003049?style=for-the-badge&logo=dovecot&logoColor=#54BCAB)
 
 ![datadog](https://img.shields.io/badge/datadog-003049?style=for-the-badge&logo=datadog&logoColor=#632CA6)
 ![nodered](https://img.shields.io/badge/nodered-003049?style=for-the-badge&logo=nodered&logoColor=#8F0000)
+
+![wikidotjs](https://img.shields.io/badge/wiki.js-003049?style=for-the-badge&logo=wikidotjs&logoColor=#1976D2)
 
 ![mqtt](https://img.shields.io/badge/mqtt-003049?style=for-the-badge&logo=mqtt&logoColor=#660066)
 ![eclipsemosquitto](https://img.shields.io/badge/mosquitto-003049?style=for-the-badge&logo=eclipsemosquitto&logoColor=#3C5280)
@@ -209,22 +192,28 @@
 
 ![cloudflare](https://img.shields.io/badge/cloudflare-003049?style=for-the-badge&logo=cloudflare&logoColor=#F38020)
 
-</div>
-
-<div align="center">
+### CLOUD
 
 ![ovh](https://img.shields.io/badge/ovh-003049?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
-</div>
+### VIDEO EDITING
 
-<div align="center">
-
+![kdenlive](https://img.shields.io/badge/kdenlive-003049?style=for-the-badge&logo=kdenlive&logoColor=#527EB2)
 ![obs](https://img.shields.io/badge/obs-003049?style=for-the-badge&logo=obs&logoColor=#123F6D)
 
-</div>
+### MINECRAFT
+
+![spigotmc](https://img.shields.io/badge/spigotmc-003049?style=for-the-badge&logo=spigotmc&logoColor=#ED8106)
+
+### OTHERS
+
+![latex](https://img.shields.io/badge/latex-003049?style=for-the-badge&logo=latex&logoColor=#000080)
 
 ![erlang](https://img.shields.io/badge/erlang-003049?style=for-the-badge&logo=erlang&logoColor=#A90533)
 ![ruby](https://img.shields.io/badge/ruby-003049?style=for-the-badge&logo=ruby&logoColor=#CC342D)
-
+![go](https://img.shields.io/badge/go-003049?style=for-the-badge&logo=go&logoColor=#00ADD8)
+![rust](https://img.shields.io/badge/rust-003049?style=for-the-badge&logo=rust&logoColor=#000000)
+![julia](https://img.shields.io/badge/julia-003049?style=for-the-badge&logo=julia&logoColor=#9558B2)
+![lua](https://img.shields.io/badge/lua-003049?style=for-the-badge&logo=lua&logoColor=#000080)
 
 
