@@ -35,6 +35,8 @@
 ![mongodb](https://img.shields.io/badge/mongodb-003049?style=for-the-badge&logo=mongodb&logoColor=#47A248)
 ![timescale](https://img.shields.io/badge/timescale-003049?style=for-the-badge&logo=timescale&logoColor=#FDB515)
 ![apachehadoop](https://img.shields.io/badge/hadoop-003049?style=for-the-badge&logo=apachehadoop&logoColor=#66CCFF)
+![graphite](https://img.shields.io/badge/graphite-003049?style=for-the-badge&logo=graphite&logoColor=#000000)
+![influxdb](https://img.shields.io/badge/influxdb-003049?style=for-the-badge&logo=influxdb&logoColor=#22ADF6)
 
 ![redis](https://img.shields.io/badge/redis-003049?style=for-the-badge&logo=redis&logoColor=#FDB515)
 ![memcached](https://img.shields.io/badge/memcached-003049?style=for-the-badge&logo=memcached&logoColor=#FDB515)
@@ -143,6 +145,7 @@
 ![traefikproxy](https://img.shields.io/badge/traefikproxy-003049?style=for-the-badge&logo=traefikproxy&logoColor=#24A1C1)
 
 ![opentelemetry](https://img.shields.io/badge/opentelemetry-003049?style=for-the-badge&logo=opentelemetry&logoColor=#000000)
+![prometheus](https://img.shields.io/badge/prometheus-003049?style=for-the-badge&logo=prometheus&logoColor=#E6522C)
 
 ### Tools
   
@@ -204,7 +207,7 @@
 ### VIDEO EDITING
 
 ![kdenlive](https://img.shields.io/badge/kdenlive-003049?style=for-the-badge&logo=kdenlive&logoColor=#527EB2)
-![obsstudio](https://img.shields.io/badge/obs-studio-003049?style=for-the-badge&logo=obsstudio&logoColor=#302E31)
+![obsstudio](https://img.shields.io/badge/obs-003049?style=for-the-badge&logo=obsstudio&logoColor=#302E31)
 
 ### MINECRAFT
 
