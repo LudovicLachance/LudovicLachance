@@ -103,6 +103,7 @@
 ### WEB
 
 ![firefoxbrowser](https://img.shields.io/badge/firefox-003049?style=for-the-badge&logo=firefoxbrowser&logoColor=#FF7139)
+![googlechrome](https://img.shields.io/badge/googlechrome-003049?style=for-the-badge&logo=googlechrome&logoColor=#4285F4)
 
 ![Javascript](https://img.shields.io/badge/Javascript-003049?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E)
 ![JQuery](https://img.shields.io/badge/JQuery-003049?style=for-the-badge&logo=JQuery&logoColor=#0769AD)
@@ -223,5 +224,6 @@
 ![rust](https://img.shields.io/badge/rust-003049?style=for-the-badge&logo=rust&logoColor=#000000)
 ![julia](https://img.shields.io/badge/julia-003049?style=for-the-badge&logo=julia&logoColor=#9558B2)
 ![lua](https://img.shields.io/badge/lua-003049?style=for-the-badge&logo=lua&logoColor=#000080)
+![perl](https://img.shields.io/badge/perl-003049?style=for-the-badge&logo=perl&logoColor=#0073A1)
 
 
