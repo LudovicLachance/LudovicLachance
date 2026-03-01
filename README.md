@@ -51,6 +51,7 @@
 ![apachetomcat](https://img.shields.io/badge/tomcat-003049?style=for-the-badge&logo=apachetomcat&logoColor=#F8DC75)
 
 ![hibernate](https://img.shields.io/badge/hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=#59666C)
+![thymeleaf](https://img.shields.io/badge/thymeleaf-003049?style=for-the-badge&logo=thymeleaf&logoColor=#005F0F)
 
 ![apachepdfbox](https://img.shields.io/badge/pdfbox-003049?style=for-the-badge&logo=apachepdfbox&logoColor=#34A5DA)
 ![apachenifi](https://img.shields.io/badge/nifi-003049?style=for-the-badge&logo=apachenifi&logoColor=#728E9B)
@@ -75,6 +76,7 @@
 ![alchemy](https://img.shields.io/badge/alchemy-003049?style=for-the-badge&logo=alchemy&logoColor=#0C0C0E)
 ![django](https://img.shields.io/badge/django-003049?style=for-the-badge&logo=django&logoColor=#092E20)
 ![renpy](https://img.shields.io/badge/renpy-003049?style=for-the-badge&logo=renpy&logoColor=#FF7F7F)
+![numpy](https://img.shields.io/badge/numpy-003049?style=for-the-badge&logo=numpy&logoColor=#013243)
 
 ### PHP
 
@@ -117,15 +119,12 @@
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-003049?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4)
 ![bulma](https://img.shields.io/badge/bulma-003049?style=for-the-badge&logo=bulma&logoColor=#00D1B2)
 
-![xml](https://img.shields.io/badge/xml-003049?style=for-the-badge&logo=xml&logoColor=#005FAD)
 ![rss](https://img.shields.io/badge/rss-003049?style=for-the-badge&logo=rss&logoColor=#FFA500)
-![jsonwebtokens](https://img.shields.io/badge/jsonwebtokens-003049?style=for-the-badge&logo=jsonwebtokens&logoColor=#000000)
+![jsonwebtokens](https://img.shields.io/badge/jwt-003049?style=for-the-badge&logo=jsonwebtokens&logoColor=#000000)
 
 ![Html5](https://img.shields.io/badge/Html5-003049?style=for-the-badge&logo=Html5&logoColor=#E34F26)
 ![pwa](https://img.shields.io/badge/pwa-003049?style=for-the-badge&logo=pwa&logoColor=#5A0FC8)
 ![aframe](https://img.shields.io/badge/aframe-003049?style=for-the-badge&logo=aframe&logoColor=#EF2D5E)
-
-![markdown](https://img.shields.io/badge/markdown-003049?style=for-the-badge&logo=markdown&logoColor=#000000)
 
 ![webgl](https://img.shields.io/badge/webgl-003049?style=for-the-badge&logo=webgl&logoColor=#990000)
 
@@ -139,6 +138,7 @@
 
 ![postman](https://img.shields.io/badge/postman-003049?style=for-the-badge&logo=postman&logoColor=#FF6C37)
 ![apachejmeter](https://img.shields.io/badge/jmeter-003049?style=for-the-badge&logo=apachejmeter&logoColor=#D22128)
+![selenium](https://img.shields.io/badge/selenium-003049?style=for-the-badge&logo=selenium&logoColor=#43B02A)
 
 ![nginx](https://img.shields.io/badge/nginx-003049?style=for-the-badge&logo=nginx&logoColor=#009639)
 ![caddy](https://img.shields.io/badge/caddy-003049?style=for-the-badge&logo=caddy&logoColor=#1F88C0)
@@ -216,7 +216,10 @@
 
 ### OTHERS
 
+![markdown](https://img.shields.io/badge/markdown-003049?style=for-the-badge&logo=markdown&logoColor=#000000)
 ![latex](https://img.shields.io/badge/latex-003049?style=for-the-badge&logo=latex&logoColor=#000080)
+![xml](https://img.shields.io/badge/xml-003049?style=for-the-badge&logo=xml&logoColor=#005FAD)
+![yaml](https://img.shields.io/badge/yaml-003049?style=for-the-badge&logo=yaml&logoColor=#CB171E)
 
 ![erlang](https://img.shields.io/badge/erlang-003049?style=for-the-badge&logo=erlang&logoColor=#A90533)
 ![ruby](https://img.shields.io/badge/ruby-003049?style=for-the-badge&logo=ruby&logoColor=#CC342D)
