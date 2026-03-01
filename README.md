@@ -199,11 +199,12 @@
 ![hivemq](https://img.shields.io/badge/hivemq-003049?style=for-the-badge&logo=hivemq&logoColor=#FFC000)
 ![natsdotio](https://img.shields.io/badge/nats.io-003049?style=for-the-badge&logo=natsdotio&logoColor=#27AAE1)
 
-![cloudflare](https://img.shields.io/badge/cloudflare-003049?style=for-the-badge&logo=cloudflare&logoColor=#F38020)
 
 ### CLOUD
 
 ![ovh](https://img.shields.io/badge/ovh-003049?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+![cloudflare](https://img.shields.io/badge/cloudflare-003049?style=for-the-badge&logo=cloudflare&logoColor=#F38020)
+![godaddy](https://img.shields.io/badge/godaddy-003049?style=for-the-badge&logo=godaddy&logoColor=#1BDBDB)
 
 ### VIDEO EDITING
 
@@ -220,6 +221,7 @@
 ![latex](https://img.shields.io/badge/latex-003049?style=for-the-badge&logo=latex&logoColor=#000080)
 ![xml](https://img.shields.io/badge/xml-003049?style=for-the-badge&logo=xml&logoColor=#005FAD)
 ![yaml](https://img.shields.io/badge/yaml-003049?style=for-the-badge&logo=yaml&logoColor=#CB171E)
+![json](https://img.shields.io/badge/json-003049?style=for-the-badge&logo=json&logoColor=#000000)
 
 ![erlang](https://img.shields.io/badge/erlang-003049?style=for-the-badge&logo=erlang&logoColor=#A90533)
 ![ruby](https://img.shields.io/badge/ruby-003049?style=for-the-badge&logo=ruby&logoColor=#CC342D)
